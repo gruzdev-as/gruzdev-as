@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexander Gruzdev, aircraft engineer from Russia, Irkutsk;
+- 👀 I’m interested in software develompent, technological-process automation, also i'm going to learn machine learning as well;
+- 🌱 I’m currently learning Python and C++, and wanna improve my skills; 
+- 💞️ I’m looking to collaborate with a enthusiastic abroad startup teams, because i wanna get an experience with english-speaking teams;
+- 📫 My contact email: gruzdev-as@yandex.ru
