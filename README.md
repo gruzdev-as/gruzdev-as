@@ -4,7 +4,7 @@
 * LeetCode: https://leetcode.com/TheStrangerOne/
 * e-mail: gruzdev-as@yandex.ru
 
-Fields of Interests: Classical Machine Learning and Deep Learning especially in the CV domain. Data Analysis and its practical application for decision making. Reinforcement Learning for complicated tchnical systems.  
+Fields of Interests: Classical Machine Learning and Deep Learning especially in the CV domain. Data Analysis and its practical application for decision making. Reinforcement Learning for complicated technical systems.  
 
 Open for the colloboration 
 
