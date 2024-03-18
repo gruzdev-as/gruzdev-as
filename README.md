@@ -3,7 +3,7 @@
 * Kaggle: https://www.kaggle.com/strangerone
 * LeetCode: https://leetcode.com/TheStrangerOne/
 * e-mail: gruzdev-as@yandex.ru
-* Telegram: @TheStrangerOne
+* Telegram: [@TheStrangerOne](https://t.me/TheStrangerOne)
 
 Fields of Interests: Classical Machine Learning and Deep Learning especially in the CV domain. Data Analysis and its practical application for decision making. Reinforcement Learning for complicated technical systems.  
 
