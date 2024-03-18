@@ -3,13 +3,22 @@
 * Kaggle: https://www.kaggle.com/strangerone
 * LeetCode: https://leetcode.com/TheStrangerOne/
 * e-mail: gruzdev-as@yandex.ru
+* Telegram: @TheStrangerOne
 
 Fields of Interests: Classical Machine Learning and Deep Learning especially in the CV domain. Data Analysis and its practical application for decision making. Reinforcement Learning for complicated technical systems.  
 
 Open for the colloboration 
 
 ## Pinned Projects: 
-### [Dice Value Recognition: the Computer Vision Project](https://github.com/gruzdev-as/Dice_recognition.The-computer-vision-project) 
+### [IT Purple Hack: Churn Prediction case from SBER (4-th Place)](https://github.com/gruzdev-as/IT-Purple-Hack) 
+
+As part of the hackathon with the "MISIS and Mr. Smith" team was presenting the idea of a project to use models of varying sensitivity to be able to flexibly adjust the ratio of expended resources and potentially retained clients.
+
+I built a CatBoostClassifier model, the hyperparameters of which were selected using the Optuna library, thanks to which it was possible to achieve the value of the ROC_AUC metric = 0.77+, which allowed us to take 5-th place on the public and 8-th place on the private leaderboard according to the results of the hackathon.
+
+The repository contains code for reproducing the main solution, as well as for testing various hypotheses, selecting features, etc. The presentation, the team and other information is presented in the repository
+
+### [Dice Value Recognition: the Computer Vision Project (CV pet-project)](https://github.com/gruzdev-as/Dice_recognition.The-computer-vision-project) 
 
 A set of Jupyter notebooks for training various computer vision models to classify and recognize dice of different configurations and face values. Full support of the project was carried out, starting from setting the technical specifications, to comparing the results obtained from different models, validating the results and drawing conclusions. 
 
