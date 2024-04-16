@@ -10,6 +10,12 @@ Fields of Interests: Classical Machine Learning and Deep Learning especially in 
 Open for the colloboration 
 
 ## Pinned Projects: 
+### [Gagarin_Hack: Document classifier (2-nd Place)](https://github.com/gruzdev-as/gagarin-hack-document-reader)
+As part of the MISIS team, status.md took second place in the hackathon. He took the place of ML engineer in the team and presented the solution
+
+Was involved in the creation and optimization of pipeline training for computer vision models of the YOLO family, as well as the RezNet model for multilabel classification. Also made it to achieve the classification accuracy above 98%, as well as high model stability.
+
+
 ### [IT Purple Hack: Churn Prediction case from SBER (4-th Place)](https://github.com/gruzdev-as/IT-Purple-Hack) 
 
 As part of the hackathon with the "MISIS and Mr. Smith" team was presenting the idea of a project to use models of varying sensitivity to be able to flexibly adjust the ratio of expended resources and potentially retained clients.
