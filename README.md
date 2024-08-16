@@ -1,4 +1,4 @@
-## Gruzdev Aleksandr - an Aircraft Engineer, a University Teacher, a Machine Learning Engineer 
+## Gruzdev Aleksandr - a Machine Learning Engineer, a University Teacher, an Aircraft Engineer
 
 * Kaggle: https://www.kaggle.com/strangerone
 * LeetCode: https://leetcode.com/TheStrangerOne/
