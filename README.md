@@ -9,7 +9,19 @@ Fields of Interests: Classical Machine Learning and Deep Learning especially in 
 
 Open for the colloboration 
 
-## Pinned Projects: 
+## Ongoing Projects:
+
+### [MTG Cards Image Detection App](https://github.com/gruzdev-as/MTG-Cards-Image-Detection-Based-on-Embedding-Approach)
+
+The application for identifying and cataloging MTG playing cards, using CLIP-based image embeddings with Open-CV implemented algorithims and a vector HNSW search. Using Flask for online implementation.
+
+## Hacks and Competitions: 
+
+### [NLP_DLS_Workshop_Competition (1-st Place)](https://github.com/gruzdev-as/NLP_DLS_Workshop_Competition)
+
+A solo work within the framework of the workshop from DLS. The task of multilabel classification of feedback from users. 
+
+Obtained best score on the public leaderboard using quantized LLM Gemma-2-27b with LoRA adapter, finetuned for multilabel classification. Packaged the solution using Docker and Streamlit.
 
 ### [Product cards matching. Ozon Tech E-CUP (2nd Place)](https://github.com/gruzdev-as/ozon-ecup-matching)
 A model was developed that determined by names, attributes and pictures whether two products were the same. This solution will help Ozon customers to improve the user experience, and companies to optimize resources and save on the purchase of server equipment.
