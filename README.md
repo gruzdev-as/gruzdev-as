@@ -40,6 +40,8 @@ As part of the hackathon with the "MISIS and Mr. Smith" team was presenting the 
 
 I built a CatBoostClassifier model, the hyperparameters of which were selected using the Optuna library, thanks to which it was possible to achieve the value of the ROC_AUC metric = 0.77+, which allowed us to take 5-th place on the public and 8-th place on the private leaderboard according to the results of the hackathon.
 
+## Legacy
+
 ### [Dice Value Recognition: the Computer Vision Project (CV pet-project)](https://github.com/gruzdev-as/Dice_recognition.The-computer-vision-project) 
 
 A set of Jupyter notebooks for training various computer vision models to classify and recognize dice of different configurations and face values. Full support of the project was carried out, starting from setting the technical specifications, to comparing the results obtained from different models, validating the results and drawing conclusions. 
