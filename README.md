@@ -1,13 +1,12 @@
-## Gruzdev Aleksandr - a Machine Learning Engineer, a University Teacher, an Aircraft Engineer
+## Gruzdev Aleksandr - a Data Scientist in GPB
 
 * Kaggle: https://www.kaggle.com/strangerone
 * LeetCode: https://leetcode.com/TheStrangerOne/
 * e-mail: gruzdev-as@yandex.ru
 * Telegram: [@TheStrangerOne](https://t.me/TheStrangerOne)
+* my cv: [Link](https://drive.google.com/file/d/1DhfopKHB3d-p5GZUCXo1wFDrQGbXP0n9/view?usp=sharing)
 
-Fields of Interests: Classical Machine Learning and Deep Learning especially in the CV domain. Data Analysis and its practical application for decision making. Reinforcement Learning for complicated technical systems.  
-
-Open for the colloboration 
+Open for the collaboration 
 
 ## Ongoing Projects:
 
