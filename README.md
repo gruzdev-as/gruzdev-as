@@ -1,4 +1,4 @@
-## Gruzdev Aleksandr - a Data Scientist in GPB
+## Gruzdev Aleksandr - a Data Scientist in Wildberries
 
 * Kaggle: https://www.kaggle.com/strangerone
 * LeetCode: https://leetcode.com/TheStrangerOne/
